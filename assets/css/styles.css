@@ -40,6 +40,22 @@
 }
 
 
+.card {
+	margin:0px 20px;
+}
+
+.primer-row{
+    margin-top: 40px;
+}
+
+.segundo-row {
+	margin-top: 40px;
+}
+
+/*.center-img {
+	align-content: center;
+}*/
+
 .carousel { z-index: -99; } /* keeps this behind all content */
 .carousel .item {
     position: fixed; 
